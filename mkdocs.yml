@@ -1,0 +1,33 @@
+site_name: Alister Burt
+docs_dir: src
+theme:
+  name: material
+  icon:
+    logo: material/printer-3d
+  palette:
+    primary: light blue
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+
+nav:
+  - About: index.md
+  - CV:
+    - cv/overview.md
+    - cv/employment.md
+    - cv/education_and_awards.md
+    - cv/talks.md
+    - cv/teaching.md
+    - 🔗 Publications: https://scholar.google.com/citations?user=ERGSZbUAAAAJ
+  - Microblog:
+    - blog/index.md
+  - Twitter: https://twitter.com/AlisterBurt
+  - GitHub: https://github.com/alisterburt
+  - Publications: https://scholar.google.com/citations?user=ERGSZbUAAAAJ
+
+
+plugins:
+  - blog:
+      blog_dir: blog
