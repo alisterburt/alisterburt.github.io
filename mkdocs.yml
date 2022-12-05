@@ -27,6 +27,10 @@ nav:
   - GitHub: https://github.com/alisterburt
   - Publications: https://scholar.google.com/citations?user=ERGSZbUAAAAJ
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 
 plugins:
   - blog:
