@@ -6,8 +6,8 @@ My name is **Alister Burt**, I'm a 28-year-old imaging scientist currently
 living in Oxford, UK. I develop image analysis software enabling *in situ*
 structural biology.
 
-In my day job we want to use extremely noisy images
-from electron microscopes to understand biology. I do this within
+In my day job we use extremely noisy images
+from an electron microscope to understand biology. I work in
 [David Barford](https://www2.mrc-lmb.cam.ac.
 uk/group-leaders/a-to-g/david-barford/)
 's group at the
