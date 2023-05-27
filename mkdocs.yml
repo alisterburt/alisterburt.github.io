@@ -11,6 +11,7 @@ theme:
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.expand
 
 nav:
   - About: index.md
@@ -21,7 +22,7 @@ nav:
     - cv/talks.md
     - cv/teaching.md
     - 🔗 Publications: https://scholar.google.com/citations?user=ERGSZbUAAAAJ
-  - Microblog:
+  - Blog:
     - blog/index.md
   - Twitter: https://twitter.com/AlisterBurt
   - GitHub: https://github.com/alisterburt
@@ -31,6 +32,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
 
 plugins:
   - blog:
