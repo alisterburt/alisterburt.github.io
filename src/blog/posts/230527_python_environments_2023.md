@@ -38,7 +38,7 @@ Python is ubiquitous, it's probably used in lots of different places on your com
 already.
 Code written for specific versions of either the Python language or
 Python packages won't necessarily work with different versions.
-A **virtual environment** is a little box you can put Python and various packages into
+A virtual environment is a little box you can put Python and various packages into
 which is isolated from the rest of your system. What you do in the box won't affect
 what's going on outside the box.
 
