@@ -26,7 +26,7 @@ I'm writing this to share the way I work and help you get on the right track.
 
 ## Introduction
 
-We are going to use **virtual environments** to manage Python environments.
+We are going to use **virtual environments** to manage our Python installation(s).
 Specifically,
 [**conda environments**](https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/environments.html#conda-environments)
 managed
