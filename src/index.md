@@ -17,4 +17,4 @@ I also work with an amazing group of people on
 an extensible, interactive multidimensional image viewer for Python.
 
 I'm generally excited about image analysis for cryo-electron tomography and
-like sustainablility in scientific software development.
+care about sustainablility in scientific software development.
