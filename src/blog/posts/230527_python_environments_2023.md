@@ -164,4 +164,4 @@ This is useful for workflows which rely on software with incompatible dependenci
 ## Closing
 
 That's it! Working in conda environments empowers you to install things without
-worrying about messing up your whole system. If you've ever felt 
+worrying about messing up your whole system.
