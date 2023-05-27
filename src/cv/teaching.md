@@ -1,4 +1,6 @@
 # Teaching
+- Instructor, [*Dutch Cryo-EM School*](https://nemi.microscopie.nl/past-events/course-dutch-cryo-em-school-27-june-2-july-2022/)
+  (TU Delft, Delft, NL **June 2022**)
 - Organiser, [*napari hackathon*](https://forum.image.
   sc/t/napari-hackathon-january-18-2022/61164) (Virtual, **January 2022**)
 - Instructor, [*EMBO Image Processing for Cryo-Electron Microscopy*](https://meetings.embo.org/event/21-cryo-em)
