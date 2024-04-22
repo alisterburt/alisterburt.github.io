@@ -20,7 +20,6 @@ jobs:
       - name: Install dependencies
         run: |
           pip install mkdocs-material
-          pip install git+https://${{ secrets.MKDOCS_INSIDERS }}@github.com/squidfunk/mkdocs-material-insiders.git
 
       - name: Build
         run: |
