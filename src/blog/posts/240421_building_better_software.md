@@ -14,7 +14,7 @@ Stacking rocks is hard. Why is it so hard?
 - Stacking rocks is hard because you're not immediately sure how to do it best.
 - Stacking rocks is hard because it requires balance and precision.
 
-<p align="center" width="70%">
+<p align="center" width="40%">
     <img src="./images/better_software/lego-n-rocks.png">
 </p>
 <p align="center">
@@ -44,7 +44,7 @@ We use the pieces we have. Those pieces are tried, tested and solid.
 If we're doing something totally out there, maybe we could 3D print a custom brick or two.
 You probably shouldn't be doing that much though.
 
-<p align="center" width="100%">
+<p align="center" width="30%">
     <img src="./images/better_software/lego-mermaid-tail.png">
 </p>
 <p align="center" width="100%">
