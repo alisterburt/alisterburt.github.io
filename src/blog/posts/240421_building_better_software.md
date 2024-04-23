@@ -21,8 +21,9 @@ Stacking rocks is hard. Why is it so hard?
     <i>left</i>: a huge lego tower. <i>right</i>: isolated stacks of rocks.
 </p>
 
-You can build [almost anything](https://www.youtube.com/watch?v=QwXK4e4uqXY) with Lego.
-The shapes of the your rocks dictate what you can build with them. 
+You can build [almost anything](https://www.youtube.com/watch?v=QwXK4e4uqXY) with Lego. 
+It's just bricks on bricks on bricks.
+The shapes of rocks dictate what you can build with them. 
 It's fun to build lego with friends. 
 Stacking rocks with friends could be fun, but it's more of a solo activity.
 
